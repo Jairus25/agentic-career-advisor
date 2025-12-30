@@ -1,5 +1,5 @@
 # agentic-career-advisor
-Multi-agent AI system for personalized career guidance using Claude
+Multi-agent AI system for personalized career guidance using gemini 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

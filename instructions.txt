@@ -1,0 +1,3 @@
+first open .env via command prompt
+then type in the bash  streamlit run app.py
+it will take you to the localhostwebsite where you can see the ai career advisor
